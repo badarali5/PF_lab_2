@@ -3,5 +3,5 @@
 ### A third-level heading
 **ye bold hai**
 **This is bold text**
-_This text is italicized_
+_This text is italicized_ \n
 5<sup>2</sup>=25
